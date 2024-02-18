@@ -1,0 +1,19 @@
+/*
+Theme Name: Playground
+Description: George Martsoukos WordPress Playground theme
+Author: George Martsoukos
+Author URI: https://georgemartsoukos.com
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: playground
+*/
+
+/* RESET & BASIC STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
